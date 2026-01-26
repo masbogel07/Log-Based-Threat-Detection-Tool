@@ -1,4 +1,4 @@
-**Log-Based Threat Detection System**
+## Log-Based Threat Detection System
 
 An automated cybersecurity tool designed to analyze system and application logs to detect malicious activities, improve threat visibility, and support effective incident response.
 
